@@ -1,16 +1,14 @@
 ## Hi there 👋
+こんにちは！
 
-<!--
-**negiarrc/negiarrc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Languages
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,dotnet,python,rust,latex,html,css,js,ts)](https://skillicons.dev)
 
-Here are some ideas to get you started:
+## Tools
+[![My Skills](https://skillicons.dev/icons?i=linux,docker,vscode,visualstudio,git,github,)](https://skillicons.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Robotics
+[![My Skills](https://skillicons.dev/icons?i=arduino,ros,autocad,)](https://skillicons.dev)
+
+## Contact
+[![My Skills](https://skillicons.dev/icons?i=gmail,discord,twitter,notion)](https://skillicons.dev)
